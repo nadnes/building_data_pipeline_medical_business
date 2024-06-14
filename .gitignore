@@ -1,0 +1,28 @@
+# Ignore Cache
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# Collected data
+output/
+
+# nbs
+nb/*
+
+# session_file.session
+session_file.session
+session_file.session-journal
+
+# files
+test.py
+chatgpt.py
+# venvironment
+penv
+telenv
+ienv
+.env
+
+#config_files
+config
+telegram_images
+*.session
